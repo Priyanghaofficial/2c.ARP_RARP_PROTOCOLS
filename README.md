@@ -43,7 +43,8 @@ while True:
     print("MAC Address",s.recv(1024).decode())
 ```
 ## OUPUT - ARP
-![image](https://github.com/Priyanghaofficial/2c.ARP_RARP_PROTOCOLS/assets/147121154/c298417a-2aa2-4ad6-b039-a052d07a7168)
+![image](https://github.com/Priyanghaofficial/2c.ARP_RARP_PROTOCOLS/assets/147121154/0776f9b4-4f50-4134-af1e-9184a16a7895)
+
 
 ## PROGRAM - RARP
 client program:
@@ -73,7 +74,8 @@ while True:
 ```
 ## OUPUT -RARP
 
-![image](https://github.com/Priyanghaofficial/2c.ARP_RARP_PROTOCOLS/assets/147121154/4ff42bb5-3363-4e94-af07-802515e84566)
+![image](https://github.com/Priyanghaofficial/2c.ARP_RARP_PROTOCOLS/assets/147121154/2b3550e1-40f6-4a42-ae9a-e6b1d4efd956)
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
